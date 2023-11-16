@@ -16,3 +16,17 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.color-btn {
+  display: flex;
+  color: rgb(255, 255, 255);
+  justify-content: center;
+}
+
+.btn-inside {
+  margin: 20px;
+  padding: 10px 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(33, 69, 123);
+border-radius: 30px;
+}
